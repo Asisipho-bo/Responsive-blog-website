@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 body { font-family: 'Montserrat', sans-serif;
+    padding-top: 56px;
 }
 
-.navbar-brand{
-    margin-bottom: 5px;
+.patterns{
+    height: 25%;
+    width: 25%;
 }
