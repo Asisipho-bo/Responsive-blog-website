@@ -1,4 +1,4 @@
-# Introduction
+# Responsive blog website
 
 Building a repsonsive blogpost website using Bootstrap, HTML, and CSS
 
@@ -8,12 +8,18 @@ Building a repsonsive blogpost website using Bootstrap, HTML, and CSS
 * [Techonologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
+
 
 ## General Info
-This project is a responsive blogpost website.
+This project is a responsive blogpost website built with Bootstrap 4.
+
+
 ## Technologies
 Project is created with:
-*Bootstrap
+* Bootstrap
 * HTML
 * CSS
 
@@ -21,5 +27,16 @@ Project is created with:
 To run this project, install it locally 
 
 ## Features
+* Reaponsiveness
 
-## Launch
+
+## Status
+Project is: finished, it was for a Zaio assignment
+
+
+## Inspiration
+Project inspired by a Zaio assignment, based on a research on Bootstrap
+
+
+## Contact
+Created by sipho.msitho@gmail.com, feel free to contact
