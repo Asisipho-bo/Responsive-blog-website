@@ -27,7 +27,7 @@ Project is created with:
 To run this project, install it locally 
 
 ## Features
-* Reaponsiveness
+* Responsiveness
 
 
 ## Status
